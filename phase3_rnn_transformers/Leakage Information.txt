@@ -1,0 +1,15 @@
+1. Gas_13Bar
+ - Normal : 0~120 seconds
+ - Leak : 121~360 seconds
+
+2. Gas_18Bar
+ - Normal : 0~120 seconds
+ - Leak : 121~360 seconds
+
+3. Water_13Bar
+ - Normal : 0~119 seconds
+ - Leak : 120~360 seconds
+
+4. Water_18Bar
+ - Normal : 0~120 seconds
+ - Leak : 121~360 seconds
